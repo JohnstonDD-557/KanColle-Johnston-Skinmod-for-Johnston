@@ -1,0 +1,23 @@
+<AGT004_21in_MK14_Torpedo_Tubes.mfm>
+	<fx>	shaders/materials/pbs/ship_emissive_material.fx	</fx>
+	<property>	emissivePower
+	<Float>	3.5	</Float>
+	</property>
+    <materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/KC_Johnston/ASD719_Johnston/gun/AGT004_21in_MK14_Torpedo_Tubes_ao.dds	</Texture>
+	</property>
+	<property>	detailMap
+		<Texture>	content/gameplay/common/textures/ship_atlas_detail.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/KC_Johnston/ASD719_Johnston/gun/AGT004_21in_MK14_Torpedo_Tubes_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/KC_Johnston/ASD719_Johnston/gun/AGT004_21in_MK14_Torpedo_Tubes_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/KC_Johnston/ASD719_Johnston/gun/AGT004_21in_MK14_Torpedo_Tubes_n.dds	</Texture>
+	</property>
+</AGT004_21in_MK14_Torpedo_Tubes.mfm>
