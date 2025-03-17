@@ -1,2 +1,4 @@
 # KanColle-Johnston-Skinmod-for-Johnston
-AzurLane Halford Skinmod for Halford in World of Warships
+KanColle Johnston Skinmod for Johnston in World of Warships
+
+14.2 is available. 
