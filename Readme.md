@@ -24,6 +24,8 @@ This mod changes the appearance of Johnston into a Kancolle Johnston theme.
 # Update
 2025/03/12 It's available in 14.2.
 
+2025/04/03 It's available in 14.3.
+
 ---
 
 # 简介
@@ -47,4 +49,6 @@ This mod changes the appearance of Johnston into a Kancolle Johnston theme.
 
 # 更新日志
 2025/03/12 在14.2下可正常使用
+
+2025/04/03 在14.3下可正常使用
 
